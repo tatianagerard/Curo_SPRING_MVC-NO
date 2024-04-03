@@ -1,0 +1,15 @@
+Comandos:
+1 - Clonar repositorio:
+git Clone <url>
+2 -Verificar os arquivosque possuem modificação:
+git status
+ OBS :Em vermelho esta fora do backstade, em verde esta dentro do Backstage
+3- Adicionar todos os arquivos no backstage
+    Git add
+
+4 - Criar commit para enviar ao repositorio:
+ git commit - m <nome do commit> 
+
+5 - Enviar commit ao repositorio:
+
+Git push
